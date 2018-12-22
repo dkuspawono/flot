@@ -1024,3 +1024,4 @@ Moved labelMargin option to grid from x/yaxis.
 ## Flot 0.1 ##
 
 First public release.
+
